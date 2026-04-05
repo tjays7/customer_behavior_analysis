@@ -71,7 +71,7 @@ Built an interactive dashboard to visualize:
 * Data Modeling & Visualization
 
 ## ⚠️ Disclaimer
-* This project is for educational and portfolio purposes only
+* This project is for **educational and portfolio purposes only**
 * Dataset and project idea are sourced from an external tutorial
 * No original data collection was performed
 
